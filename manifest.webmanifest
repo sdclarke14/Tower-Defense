@@ -1,0 +1,11 @@
+{
+  "name": "Hollowgate",
+  "short_name": "Hollowgate",
+  "description": "A cartoon tower defense game. Hold the gate for 10 waves.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#17120e",
+  "theme_color": "#17120e",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
