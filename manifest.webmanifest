@@ -1,11 +1,11 @@
 {
-  "name": "Hollowgate",
-  "short_name": "Hollowgate",
-  "description": "A cartoon tower defense game. Hold the gate for 10 waves.",
+  "name": "Hollowgate Block War",
+  "short_name": "Block War",
+  "description": "A vertical lane battler. Two militia crews fight over one run-down neighborhood.",
   "start_url": "./index.html",
   "display": "fullscreen",
-  "orientation": "landscape",
-  "background_color": "#17120e",
-  "theme_color": "#17120e",
+  "orientation": "portrait",
+  "background_color": "#15171b",
+  "theme_color": "#15171b",
   "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
 }
